@@ -18,7 +18,7 @@ def products(update, context):
 
 def main():
     """Start the bot."""
-    TOKEN = '6924670285:AAEyuEf-1_nnIT7E13Mh345nqW3-9ZHRx54'
+    TOKEN = ''
 
     updater = Updater(TOKEN, use_context=True)
 
